@@ -17,7 +17,7 @@ const Feed = () => {
   return (
     <div className="feed">
       <div className="feed__header">
-        <h2>Home new is most</h2>
+        <h2>Home new is most useful</h2>
       </div>
       <TweetBox />
       <FlipMove>
